@@ -7,3 +7,6 @@
 ```
     $ source startup.sh
 ```
+
+## Unable to find SC context?
+Use [FindSaprk](https://github.com/minrk/findspark ) to discover your apache spark installation and manually load sc context . 
